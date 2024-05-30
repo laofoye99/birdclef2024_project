@@ -1,1 +1,1 @@
-This repository is used to complete the competiton for birdCLEF2024.
+This repository is used to complete the competition birdCLEF 2024 on Kaggle.
